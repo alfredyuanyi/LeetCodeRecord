@@ -8,6 +8,8 @@ typedef struct HashTbl *HashTable;
 typedef int ElementType;
 #define MinTableSize (2)
 
+
+
 int Gcd(int a, int b)
 {
     int temp;
